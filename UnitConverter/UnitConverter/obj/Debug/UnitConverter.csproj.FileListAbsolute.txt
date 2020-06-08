@@ -1,0 +1,10 @@
+C:\Users\AIntrone\Desktop\Github\UnitConverter\UnitConverter\UnitConverter\bin\Debug\UnitConverter.exe.config
+C:\Users\AIntrone\Desktop\Github\UnitConverter\UnitConverter\UnitConverter\bin\Debug\UnitConverter.exe
+C:\Users\AIntrone\Desktop\Github\UnitConverter\UnitConverter\UnitConverter\bin\Debug\UnitConverter.pdb
+C:\Users\AIntrone\Desktop\Github\UnitConverter\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csprojAssemblyReference.cache
+C:\Users\AIntrone\Desktop\Github\UnitConverter\UnitConverter\UnitConverter\obj\Debug\UnitConverter.Properties.Resources.resources
+C:\Users\AIntrone\Desktop\Github\UnitConverter\UnitConverter\UnitConverter\obj\Debug\UnitConverter.Units.resources
+C:\Users\AIntrone\Desktop\Github\UnitConverter\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csproj.GenerateResource.cache
+C:\Users\AIntrone\Desktop\Github\UnitConverter\UnitConverter\UnitConverter\obj\Debug\UnitConverter.csproj.CoreCompileInputs.cache
+C:\Users\AIntrone\Desktop\Github\UnitConverter\UnitConverter\UnitConverter\obj\Debug\UnitConverter.exe
+C:\Users\AIntrone\Desktop\Github\UnitConverter\UnitConverter\UnitConverter\obj\Debug\UnitConverter.pdb
